@@ -20,4 +20,4 @@
 
 
 ## Используемые библиотеки
-*pandas*
+*pandas*, *seaborn*, *numpy*, *LogisticRegression*, *lightgbm*, *nltk*

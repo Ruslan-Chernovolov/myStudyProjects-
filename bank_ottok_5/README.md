@@ -39,4 +39,4 @@
 
 
 ## Используемые библиотеки
-*pandas*
+*pandas*, *matplotlib*, *numpy*, *LogisticRegression*, *RandomForestClassifier*, *DecisionTreeClassifier*, *GridSearchCV*

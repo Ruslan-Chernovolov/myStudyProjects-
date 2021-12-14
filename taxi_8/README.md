@@ -19,4 +19,4 @@
 
 
 ## Используемые библиотеки
-*pandas*
+*pandas*, *matplotlib*, *numpy*, *catboost*, *xgboost*, *lightgbm*, *TimeSeriesSplit*
