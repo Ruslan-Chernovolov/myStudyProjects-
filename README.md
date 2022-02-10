@@ -18,3 +18,4 @@
 | [Прогнозирование заказов такси](taxi_8) | Разработать систему, способную предсказывать количество заказов такси на следующий час.| *pandas*, *matplotlib*, *numpy*, *catboost*, *xgboost*, *lightgbm*, *TimeSeriesSplit*  |
 | [Предсказание характеристик концентрата руды, на примере золотодобычи](gold_9) | Разработать систему, способную предсказывать коэффициент восстановления золота из золотосодержащей руды| *pandas*, *matplotlib*, *numpy*, *RandomForestRegressor*, *LinearRegression*  |
 | [Поиск токсичных комментариев](text_10) | Разработать систему, способную распознавать токсичные комментарии| *pandas*, *seaborn*, *numpy*, *LogisticRegression*, *lightgbm*, *nltk* |
+| [Исследование оттока клиентов из телеком компании](telecom_11) | Создание модели прогнозирования оттока клиентов| *pandas*, *matplotlib*, *numpy*, *catboost*, *xgboost*, *lightgbm*, *RandomForestClassifier* |
